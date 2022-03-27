@@ -1,6 +1,6 @@
 # piggram
 
-A new Flutter project.
+A mobile app to share your food preferences
 
 ## Getting Started
 
